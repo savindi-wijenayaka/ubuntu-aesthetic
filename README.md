@@ -50,3 +50,13 @@
 
         }
         ```
+
+<!-- Refer https://dev.to/envoy_/150-badges-for-github-pnk for new badges -->
+<!-- Sheilds.io can make any custom badge: https://img.shields.io -->
+<br><hr><br>
+<p align="center">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="100">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="100">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</p>
+<p align="center"><img src="https://img.shields.io/badge/Made_with-♥️-crimson"></p>

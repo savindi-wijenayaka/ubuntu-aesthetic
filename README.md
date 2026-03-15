@@ -19,8 +19,8 @@
 3. Create SSH key locally and add the public key to your profile [[ref]](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key).
 4. Cache the Github credentials in Git using GitHub CLI [[ref]](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#github-cli).
 
-### Conda
-1. Download and install either miniconda or anaconda depending on your requirement.
+### uv
+1. Install uv [[ref]](https://docs.astral.sh/uv/getting-started/installation/).
 
 
 ### VS Code
